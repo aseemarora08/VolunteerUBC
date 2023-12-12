@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" modified="2023-12-12T09:31:15.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="P8YTQJ80JO9McaajstxW" version="22.1.7" type="google">
+  <diagram name="Page-1" id="dSY9KUng6pk6FMVrcZ5L">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-2" value="VolunteerUBC Business Process Map" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="1790" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-3" value="Applicants" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-2">
+          <mxGeometry y="20" width="1790" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HEXxYwGeygBf_-uR8M-5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-3" source="PUOie-m4PMo-xGtMbvRy-13" target="PUOie-m4PMo-xGtMbvRy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-13" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-3">
+          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Apply and Submit application&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-3">
+          <mxGeometry x="110" y="32.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-4" value="HR Department" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-2">
+          <mxGeometry y="152.5" width="1790" height="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-18" target="PUOie-m4PMo-xGtMbvRy-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-18" value="Reviews the submitted application" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="105" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-28" target="PUOie-m4PMo-xGtMbvRy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-28" value="Make notes on the applicants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-20" target="PUOie-m4PMo-xGtMbvRy-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-20" value="Offer for Interview?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="430" y="10" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-35" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Invite shortlisted applicants for interview&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="580" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-37" target="PUOie-m4PMo-xGtMbvRy-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-37" value="Conduct Interviews" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="740" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-35" target="PUOie-m4PMo-xGtMbvRy-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-39" target="PUOie-m4PMo-xGtMbvRy-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-39" value="Send Rejection Letter" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="425" y="157.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-20" target="PUOie-m4PMo-xGtMbvRy-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Yes&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="520" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;No&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="470" y="113.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-45" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=8;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="245" y="147.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-47" target="PUOie-m4PMo-xGtMbvRy-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-47" value="Offer for Acceptance?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="900" y="10" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;No&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="900" y="157.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-51" value="Send Offer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="1060" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-47" target="PUOie-m4PMo-xGtMbvRy-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Yes&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="990" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-60" value="Schedule Training" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="1190" y="157.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-4" source="PUOie-m4PMo-xGtMbvRy-66" target="PUOie-m4PMo-xGtMbvRy-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-66" value="Schedule Shifts" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="1470" y="157.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-70" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=8;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-4">
+          <mxGeometry x="1670" y="147.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-5" value="Volunteer" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-2">
+          <mxGeometry y="410" width="1790" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-5" source="PUOie-m4PMo-xGtMbvRy-55" target="PUOie-m4PMo-xGtMbvRy-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-55" value="Accept Offer?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-5">
+          <mxGeometry x="1065" y="22.5" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-57" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=8;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-5">
+          <mxGeometry x="915" y="35" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-59" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;No&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-5">
+          <mxGeometry x="1020" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-63" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Yes&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-5">
+          <mxGeometry x="1160" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-64" value="Receive Training" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PUOie-m4PMo-xGtMbvRy-5">
+          <mxGeometry x="1340" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-2" source="PUOie-m4PMo-xGtMbvRy-16" target="PUOie-m4PMo-xGtMbvRy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-2" source="PUOie-m4PMo-xGtMbvRy-51" target="PUOie-m4PMo-xGtMbvRy-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-2" source="PUOie-m4PMo-xGtMbvRy-55" target="PUOie-m4PMo-xGtMbvRy-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-2" source="PUOie-m4PMo-xGtMbvRy-60" target="PUOie-m4PMo-xGtMbvRy-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUOie-m4PMo-xGtMbvRy-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PUOie-m4PMo-xGtMbvRy-2" source="PUOie-m4PMo-xGtMbvRy-64" target="PUOie-m4PMo-xGtMbvRy-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
